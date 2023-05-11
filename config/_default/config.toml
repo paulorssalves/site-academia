@@ -1,0 +1,75 @@
+baseURL = 'https://paulorssalves.com.br'
+defaultContentLanguage = 'pt'
+defaultContentLanguageInSubdir = false
+disableAliases = true
+enableEmoji = true
+enableGitInfo = false
+enableRobotsTXT = true
+footnotereturnlinkcontents = '<sup>^</sup>'
+hasCJKLanguage = false
+ignoreFiles = ['\.ipynb$', '.ipynb_checkpoints$', '\.Rmd$', '\.Rmarkdown$', '_cache$']
+paginate = 10
+removePathAccents = true
+summaryLength = 30
+theme = 'starter-hugo-academic'
+timeout = 600000
+title = 'Paulo R. S. S. Alves'
+
+[imaging]
+anchor = 'smart'
+quality = 75
+resampleFilter = 'lanczos'
+
+[markup]
+_merge = 'deep'
+
+[minify]
+_merge = 'deep'
+
+[module]
+[[module.imports]]
+path = 'github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms'
+
+[[module.imports]]
+path = 'github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify'
+
+[[module.imports]]
+path = 'github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal'
+
+[[module.imports]]
+path = 'github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5'
+
+[outputs]
+home = ['HTML', 'RSS', 'JSON', 'WebAppManifest', 'headers', 'redirects']
+section = ['HTML', 'RSS']
+
+[permalinks]
+categories = '/category/:slug/'
+event = '/talk/:slug/'
+publication_types = '/publication-type/:slug/'
+tags = '/tag/:slug/'
+
+[related]
+includeNewer = true
+threshold = 80
+toLower = true
+
+[[related.indices]]
+name = 'tags'
+weight = 100
+
+[[related.indices]]
+name = 'categories'
+weight = 70
+
+[security]
+_merge = 'deep'
+
+[sitemap]
+_merge = 'deep'
+
+[taxonomies]
+author = 'authors'
+category = 'categories'
+publication_type = 'publication_types'
+tag = 'tags'
