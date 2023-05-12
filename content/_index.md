@@ -49,7 +49,7 @@ sections:
         description: |2-
             Serviços prestados: 
   
-            * Análise de descritiva de dados ;
+            * Análise de descritiva de dados;
             * Execução de testes estatísticos inferenciais e preditivos;
             * Consultoria em análise de dados e interpretação de dados e resultados de pesquisa;
             * Produção de relatórios sobre as análises executadas; 
@@ -63,8 +63,8 @@ sections:
         date_end: ""
         date_start: "2022-06-01"
         description: |2-
-            Psicoterapeuta psicodinâmico de orientação predominantemente _junguinana_.
-            Dialogo com outras abordagens, sobretudo com a reichiana a TCC.
+            Psicoterapeuta psicodinâmico de orientação predominantemente junguiana.
+            Dialogo com outras abordagens, sobretudo com a reichiana e a TCC.
         location: Remoto 
         title: Psicoterapeuta 
       title: Experiência 
