@@ -63,8 +63,8 @@ sections:
         date_end: ""
         date_start: "2022-06-01"
         description: |2-
-            Psicoterapeuta psicodinâmico de orientação predominantemente _reichiana_.
-            Dialogo com outras abordagens, sobretudo (em ordem de frequência): psicologia anaĺitica, Gestalt terapia, TCC.
+            Psicoterapeuta psicodinâmico de orientação predominantemente _junguinana_.
+            Dialogo com outras abordagens, sobretudo com a reichiana a TCC.
         location: Remoto 
         title: Psicoterapeuta 
       title: Experiência 
