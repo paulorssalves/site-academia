@@ -50,9 +50,9 @@ sections:
             Serviços prestados: 
   
             * Análise de descritiva de dados;
+            * Construção de instrumentos psicométricos;
             * Execução de testes estatísticos inferenciais e preditivos;
-            * Consultoria em análise de dados e interpretação de dados e resultados de pesquisa;
-            * Produção de relatórios sobre as análises executadas; 
+            * Consultoria em análise e interpretação de dados e resultados de pesquisa;
             * Revisão de redação de resultados de análises estatísticas para artigos científicos.
         location: Remoto 
         title: Psicometrista e analista de dados 
