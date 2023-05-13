@@ -92,6 +92,15 @@ sections:
         organization_url: https://psicometriaonline.com.br/
         title: IRAMUTEQ - Análises Textuais 
         url: ""          
+        
+      - certificate_url: 
+        date_end: "2023-05-12"
+        date_start: "2023-04-20"
+        description: "Aborda revisão de literatura, estratégias de construção de itens, tradução e síntese de traduções, avaliação dos itens por experts e pela população alvo, análises de concordância e evidências de validade."
+        organization: Psicometria Online 
+        organization_url: https://psicometriaonline.com.br/
+        title: Construção, Adaptação e Validação de Instrumentos de Autorrelato 
+        url: ""          
       subtitle: null
       title: Habilitações 
     design:
@@ -159,6 +168,7 @@ sections:
 #        {{< gallery album="demo" >}}
 #    design:
 #      columns: '1'
+
 #  - block: collection
 #    id: featured
 #    content:
@@ -170,20 +180,23 @@ sections:
 #    design:
 #      columns: '2'
 #      view: card
-#  - block: collection
-#    content:
-#      title: Recent Publications
+      
+  - block: collection
+    content:
+      title: Publicações 
+      
 #      text: |-
 #        {{% callout note %}}
 #        Quickly discover relevant content by [filtering publications](./publication/).
 #        {{% /callout %}}
-#      filters:
-#        folders:
-#          - publication
-#        exclude_featured: true
-#    design:
-#      columns: '2'
-#      view: citation
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+
 #  - block: collection
 #    id: talks
 #    content:
@@ -202,6 +215,10 @@ sections:
   - block: contact
     content:
       contact_links:
+      - icon: whatsapp 
+        icon_pack: fab
+        name: (21) 9 7662 5742
+        link: tel:+5521976625742
       - icon: square-instagram
         icon_pack: fab
         link: https://www.instagram.com/paulorssalves/ 
@@ -211,8 +228,8 @@ sections:
         link: https://www.linkedin/com/in/paulorssalves/ 
         name: LinkedIn
       email: paulorssalves@gmail.com 
-      phone: (21) 97662 5742
       subtitle: Sinta-se à vontade para entrar em contato comigo usando quaisquer um dos meios abaixo.
+      
       title: Contato 
     design:
       columns: "2"
