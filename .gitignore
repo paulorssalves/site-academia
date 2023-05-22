@@ -2,3 +2,10 @@
 .Rhistory
 .RData
 .Ruserdata
+./public
+./public/*
+*public*
+public
+public
+public/*
+

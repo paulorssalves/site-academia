@@ -16,17 +16,17 @@ sections:
     content:
       title: Habilidades  
       items:
-      - description: Analisando respostas a questionários, podemos verificar o padrão de respostas dos participantes das nossas pesquisas e assim encontrar padrões. 
+      - description: Analisando respostas a questionários, podemos verificar a forma como respondem os participantes das nossas pesquisas e assim encontrar padrões. 
         icon: chart-line
         icon_pack: fas
         name: Psicometria
         
-      - description: O R é uma linguagem de programação especialmente eficiente para a análise de dados. Com ela, podemos obter resultados precisos, utilizando os métodos estatísticos mais atualizados. 
+      - description: O R é uma linguagem de programação especialmente eficiente para a análise de dados. Com ela podemos obter resultados precisos, utilizando os métodos estatísticos mais atualizados. 
         icon: r-project
         icon_pack: fab
         name: Programação em R
         
-      - description: Com a análise quantitativa de textos é possível encontrar padrões e relações em um texto, falicitando e justificando o julgamento qualitativo.
+      - description: Com a análise quantitativa de textos é possível encontrar padrões e relações em um _corpus_, facilitando e justificando o julgamento qualitativo a respeito de seu conteúdo.
         icon: file-lines
         icon_pack: fas
         name: Análise textual quantitativa
@@ -55,7 +55,7 @@ sections:
             * Análise de instrumentos psicométricos;
             * Análise textual quantitativa; 
             * Revisão técnica de redação de resultados de artigos científicos.
-        location: Remoto 
+        location: 
         title: Psicometrista e analista de dados 
         
       - company: Autônomo 
@@ -66,7 +66,7 @@ sections:
         description: |2-
             Psicoterapeuta psicodinâmico de orientação predominantemente junguiana.
             Dialogo com outras abordagens, sobretudo com a TCC. 
-        location: Remoto 
+        location: 
         title: Psicoterapeuta 
       title: Experiência 
     design:
@@ -79,7 +79,7 @@ sections:
       - certificate_url: 
         date_end: "2023-05-04"
         date_start: "2023-03-02"
-        description: "Análises estatísticas descritivas e inferenciais. Possuo também habilitação análoga para a linguagem de programação R."
+        description: "Análises estatísticas descritivas e inferenciais. Possuo também certificação análoga para a linguagem de programação R."
         organization: Psicometria Online 
         organization_url: https://psicometriaonline.com.br/
         title: Análises Bi e Multivariadas 
@@ -103,7 +103,7 @@ sections:
         title: Construção, Adaptação e Validação de Instrumentos de Autorrelato 
         url: ""          
       subtitle: null
-      title: Habilitações 
+      title: Certificações 
     design:
       columns: "2" 
 
