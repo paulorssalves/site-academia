@@ -22,14 +22,13 @@ organizations:
     url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interesso-me por psicometria, psicologia organizacional e modelos matemáticos em psicologia e ciências sociais. 
+bio: Interesso-me por psicometria, psicologia da personalidade e modelos matemáticos em psicologia e ciências sociais. 
 
 # Interests to show in About widget
-interests:
-  - Psicometria
-  - Psicologia organizacional 
-  - Psicologia da personalidade 
-  - Ciências sociais computacionais
+# interests:
+#   - Psicometria
+#   - Psicologia da personalidade 
+#   - Ontologia e epistemologia de construtos
 
 # Education to show in About widget
 education:
@@ -70,5 +69,8 @@ email: 'paulorssalves@gmail.com'
 highlight_name: true
 ---
 
-Paulo Alves é psicólogo e psicometrista. Tem interesse no papel e na aplicação de modelos matemáticos e estatísticos na Psicologia.
-{style="text-align: justify;"}
+Olá! Meu nome é Paulo, e eu auxilio pesquisadores em Psicologia e Ciências Sociais na análise dos dados das suas pesquisas e no desenvolvimento de suas escalas e medidas. Formado em Psicologia pela UERJ, meus princiapis interesses são: 
+- Psicometria;
+- Psicologia da persondalide;
+- Ontologia e epistemologia de construtos psicológicos;
+- Modelos matemáticos em Psicologia.

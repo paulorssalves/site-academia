@@ -16,15 +16,17 @@ sections:
     content:
       title: Habilidades  
       items:
-      - description: Construção de instrumentos psicométricos e análise da dados quantitativos
+      - description: Analisando respostas a questionários, podemos verificar o padrão de respostas dos participantes das nossas pesquisas e assim encontrar padrões. 
         icon: chart-line
         icon_pack: fas
         name: Psicometria
-      - description: Análises precisas com os métodos mais atualizados
+        
+      - description: O R é uma linguagem de programação especialmente eficiente para a análise de dados. Com ela, podemos obter resultados precisos, utilizando os métodos estatísticos mais atualizados. 
         icon: r-project
         icon_pack: fab
-        name: R
-      - description: Análise de textos com Iramuteq
+        name: Programação em R
+        
+      - description: Com a análise quantitativa de textos é possível encontrar padrões e relações em um texto, falicitando e justificando o julgamento qualitativo.
         icon: file-lines
         icon_pack: fas
         name: Análise textual quantitativa
@@ -49,11 +51,10 @@ sections:
         description: |2-
             Serviços prestados: 
   
-            * Análise de descritiva de dados;
-            * Construção de instrumentos psicométricos;
-            * Execução de testes estatísticos inferenciais e preditivos;
-            * Consultoria em análise e interpretação de dados e resultados de pesquisa;
-            * Revisão de redação de resultados de análises estatísticas para artigos científicos.
+            * Análise de descritiva e inferencial de dados quantitativos;
+            * Análise de instrumentos psicométricos;
+            * Análise textual quantitativa; 
+            * Revisão técnica de redação de resultados de artigos científicos.
         location: Remoto 
         title: Psicometrista e analista de dados 
         
@@ -64,7 +65,7 @@ sections:
         date_start: "2022-06-01"
         description: |2-
             Psicoterapeuta psicodinâmico de orientação predominantemente junguiana.
-            Dialogo com outras abordagens, sobretudo com a reichiana e a TCC.
+            Dialogo com outras abordagens, sobretudo com a TCC. 
         location: Remoto 
         title: Psicoterapeuta 
       title: Experiência 
