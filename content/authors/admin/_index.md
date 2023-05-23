@@ -70,7 +70,12 @@ highlight_name: true
 ---
 
 Olá! Meu nome é Paulo, e eu auxilio pesquisadores em Psicologia e Ciências Sociais na análise dos dados das suas pesquisas e no desenvolvimento de suas escalas e medidas. Formado em Psicologia pela UERJ, meus principais interesses são: 
+
 - Psicometria;
 - Psicologia da personalidade;
 - Ontologia e epistemologia de construtos psicológicos;
 - Modelos matemáticos em Psicologia.
+
+<div class='contact-me'>
+  <a href='#contact'>Entre em contato comigo!</a>
+</div>

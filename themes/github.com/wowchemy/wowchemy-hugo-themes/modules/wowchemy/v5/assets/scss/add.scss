@@ -1,0 +1,12 @@
+/*
+Breve alteração para centralizar informação importante.
+*/
+
+$navbreak: 991px; 
+
+.contact-me {
+	@media screen and (max-width: $navbreak) {
+		text-align:center;
+	}
+}
+

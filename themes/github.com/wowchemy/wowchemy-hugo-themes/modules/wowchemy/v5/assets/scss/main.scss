@@ -49,4 +49,5 @@ $sta-dark-home-section-even: {{ $scr.Get "dark_home_section_even" }};
 @import "_vendor/bootstrap/bootstrap";
 @import "wowchemy/wowchemy";
 @import "template";
+@import "add";
 @import "custom";
