@@ -69,8 +69,10 @@ sections:
         date_end: ""
         date_start: "2022-10-01"
         description: |2-
-            Serviços prestados: 
-  
+          Auxilio pesquisadores, sejam da graduação ou pós-gradua(n)dos, na análise dos dados de suas pesquisas científicas.<br>
+          
+          ---
+            **Serviços prestados**: 
             * Análise de descritiva e inferencial de dados quantitativos;
             * Análise e produção de instrumentos psicométricos;
             * Análise textual quantitativa; 
@@ -84,9 +86,9 @@ sections:
         date_end: ""
         date_start: "2022-06-01"
         description: |2-
-            Psicoterapeuta psicodinâmico de orientação predominantemente junguiana.
-            Dialogo com outras abordagens, sobretudo com a TCC. 
-        location: 
+            Psicoterapeuta psicodinâmico de orientação junguiana.
+            Dialogo com outras abordagens, sobretudo com a Terapia Cognitivo-Comportamental. 
+        location:  CRP 05/69714
         title: Psicoterapeuta 
       title: Experiência 
     design:
