@@ -14,17 +14,17 @@ sections:
     content:
       title: Serviços 
       items:
-      - description: Analisando respostas a questionários, podemos verificar a forma como respondem os participantes das nossas pesquisas e assim encontrar padrões.
+      - description: A psicometria é a ciência da medição de características de indivíduos e coletivos humanos por meio da produção e análise estatística e matemática de questionários.
         icon: chart-line
         icon_pack: fas
         name: Psicometria
         
-      - description: Testes estatísticos para a sua pesquisa utilizando R, linguagem de programação com os métodos mais avançados de análise.
+      - description: Utilizando a linguagem de programação R é possível fazer os testes com os métodos mais avançados de análise estatística.
         icon: r-project
         icon_pack: fab
         name: Análise de dados
         
-      - description: Com a análise quantitativa de textos é possível encontrar padrões e relações em um corpus, facilitando e justificando o julgamento qualitativo a respeito de seu conteúdo.
+      - description: Com a análise quantitativa de textos é possível encontrar padrões e relações em um _corpus_, facilitando a nossa interpretação qualitativa.
         icon: file-lines
         icon_pack: fas
         name: Análise textual quantitativa
