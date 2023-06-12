@@ -1,35 +1,55 @@
 ---
-# Leave the homepage title empty to use the site title
 title: Paulo R. S. S. Alves
 date: 2022-10-24
 type: landing
 
 sections:
+
   - block: about.biography
     id: about
     content:
-      title: Sobre
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      
+ 
   - block: features
     content:
-      title: Habilidades  
+      title: Serviços 
       items:
-      - description: Analisando respostas a questionários, podemos verificar a forma como respondem os participantes das nossas pesquisas e assim encontrar padrões. 
+      - description: Analisando respostas a questionários, podemos verificar a forma como respondem os participantes das nossas pesquisas e assim encontrar padrões.
         icon: chart-line
         icon_pack: fas
         name: Psicometria
         
-      - description: O R é uma linguagem de programação especialmente eficiente para a análise de dados. Com ela podemos obter resultados precisos, utilizando os métodos estatísticos mais atualizados. 
+      - description: Testes estatísticos para a sua pesquisa utilizando R, linguagem de programação com os métodos mais avançados de análise.
         icon: r-project
         icon_pack: fab
-        name: Programação em R
+        name: Análise de dados
         
-      - description: Com a análise quantitativa de textos é possível encontrar padrões e relações em um _corpus_, facilitando e justificando o julgamento qualitativo a respeito de seu conteúdo.
+      - description: Com a análise quantitativa de textos é possível encontrar padrões e relações em um corpus, facilitando e justificando o julgamento qualitativo a respeito de seu conteúdo.
         icon: file-lines
         icon_pack: fas
         name: Análise textual quantitativa
+      design:
+        columns: '2'
+    
+  - block: markdown
+    id: presentation
+    icon_pack: fas
+    icon: file-lines
+    content: 
+      title: Quem sou eu? 
+
+      text:  "Olá! Meu nome é Paulo Alves. Sou psicólogo clínico e pesquisador. Trabalho como psicoterapeuta e auxilio pesquisadores na análise dos dados e desenvolvimento de escalas para suas pesquisas. **Formado em Psicologia pela UERJ**, meus principais interesses são: 
+      
+      - Psicometria e Análise de dados;
+      
+      - Psicologia da personalidade;
+      
+      - Gestão do tempo; 
+      
+      - Síndrome do Burnout;"
+      
+    design:
+      columns: '2'
     
   - block: experience
     content:
@@ -219,7 +239,7 @@ sections:
       - icon: whatsapp 
         icon_pack: fab
         name: (21) 9 7662 5742
-        link: tel:+5521976625742
+        link: https://api.whatsapp.com/send?phone=5521976625742&text=Ol%C3%A1!%20Aqui%20%C3%A9%20o%20Paulo.%20Precisa%20de%20ajuda%20com%20a%20an%C3%A1lise%20dos%20seus%20dados?%20Me%20chama%20no%20WhatsApp!
       - icon: square-instagram
         icon_pack: fab
         link: https://www.instagram.com/paulorssalves/ 
@@ -229,9 +249,9 @@ sections:
         link: https://www.linkedin/com/in/paulorssalves/ 
         name: LinkedIn
       email: paulorssalves@gmail.com 
-      subtitle: Sinta-se à vontade para entrar em contato comigo usando quaisquer um dos meios abaixo.
+      subtitle: Entre em contato comigo! 
       
-      title: Contato 
+      title: Contrate-me
     design:
       columns: "2"
     id: contact  
