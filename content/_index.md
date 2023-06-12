@@ -19,7 +19,7 @@ sections:
         icon_pack: fas
         name: Psicometria
         
-      - description: Utilizando a linguagem de programação R é possível fazer os testes com os métodos mais avançados de análise estatística.
+      - description: Utilizando a linguagem de programação R é possível realizar testes com os métodos mais avançados de análise estatística.
         icon: r-project
         icon_pack: fab
         name: Análise de dados
