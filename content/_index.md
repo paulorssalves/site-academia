@@ -72,9 +72,9 @@ sections:
             Serviços prestados: 
   
             * Análise de descritiva e inferencial de dados quantitativos;
-            * Análise de instrumentos psicométricos;
+            * Análise e produção de instrumentos psicométricos;
             * Análise textual quantitativa; 
-            * Revisão técnica de redação de resultados de artigos científicos.
+            * Revisão técnica de redação de artigos científicos.
         location: 
         title: Psicometrista e analista de dados 
         

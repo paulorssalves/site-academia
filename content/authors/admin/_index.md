@@ -30,34 +30,23 @@ bio: Interesso-me por psicometria, psicologia da personalidade, síndrome do Bur
 # education:
 #  courses:
 #    - course: Psicologia 
-#      institution: Universidade do Estado do Rio de Janeiro (UERJ) 
-#      year: 2022
+#     institution: Universidade do Estado do Rio de Janeiro (UERJ) 
+#     year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-#social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: mailto:paulorssalves@gmail.com
-#  - display:
-#      header: true
-#    icon: instagram
-#    icon_pack: fab
-#    label: Siga-me no Instagram 
-#    link: https://instagram.com/paulorssalves
-#  - icon: graduation-cap
-#    icon_pack: fas
-#    link: https://lattes.cnpq.br/5417912382990583
-#  - icon: github
-#    icon_pack: fab
-#    link: https://github.com/paulorssalves/
-#  - icon: linkedin
-#    icon_pack: fab
-#    link: https://www.linkedin.com/in/paulorssalves/
 
-
+social:
+  - icon: instagram
+    icon_pack: fab
+    label: Siga-me no Instagram 
+    link: https://instagram.com/paulorssalves
+    display:
+      header: true
+      about.biography: false
+  
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'paulorssalves@gmail.com'
 
