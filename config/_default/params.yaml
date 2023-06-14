@@ -38,6 +38,8 @@ header:
     show_day_night: true
     show_search: false
     highlight_active_link: true
+  nav_settings:
+    owner_name: "Paulo R. S. S. Alves"
 
 # Site footer
 
@@ -68,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/paulorssalves/paulorssalves.github.io/'
     content_dir: content
     branch: main
   avatar:

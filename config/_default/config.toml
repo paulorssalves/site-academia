@@ -13,7 +13,7 @@ removePathAccents = true
 summaryLength = 30
 theme = 'starter-hugo-academic'
 timeout = 600000
-title = 'Paulo R. S. S. Alves'
+title = "Paulo R. S. S. Alves | Psicometrista e Analista de dados"
 
 [imaging]
 anchor = 'smart'
