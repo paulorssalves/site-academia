@@ -36,10 +36,6 @@
     <script src="https://www.googleoptimize.com/optimize.js?id={{ site.Params.marketing.analytics.google_optimize }}"></script>
   {{- end -}}
 
-	<!-- Event snippet for Visualização de página conversion page -->
-	<script>
-	  gtag('event', 'conversion', {'send_to': 'AW-11219991723/7VyaCIe_0asYEKv5jeYp'});
-	</script>
 
   {{ $css := site.Data.assets.css }}
   {{ $js := site.Data.assets.js }}
@@ -217,4 +213,10 @@
     {{ partial "custom_head" . }}
   {{ end }}
   {{ partial "functions/get_hook" (dict "hook" "head-end" "context" .) }}
+
+	<!-- Event snippet for Visualização de página conversion page -->
+	<script>
+	  gtag('event', 'conversion', {'send_to': 'AW-11219991723/7VyaCIe_0asYEKv5jeYp'});
+	</script>
+
 </head>
