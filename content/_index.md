@@ -248,7 +248,7 @@ sections:
         name: Instagram
       - icon: linkedin 
         icon_pack: fab
-        link: https://www.linkedin/com/in/paulorssalves/ 
+        link: https://www.linkedin.com/in/paulorssalves/ 
         name: LinkedIn
       email: paulorssalves@gmail.com 
       subtitle: Entre em contato comigo! 
