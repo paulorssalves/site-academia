@@ -241,7 +241,7 @@ sections:
       - icon: whatsapp 
         icon_pack: fab
         name: (21) 9 7662 5742
-        link: https://api.whatsapp.com/send?phone=5521976625742&text=Ol%C3%A1!%20Aqui%20%C3%A9%20o%20Paulo.%20Precisa%20de%20ajuda%20com%20a%20an%C3%A1lise%20dos%20seus%20dados?%20Me%20chama%20no%20WhatsApp!
+        link: https://api.whatsapp.com/send?phone=5521976625742
       - icon: square-instagram
         icon_pack: fab
         link: https://www.instagram.com/paulorssalves/ 
