@@ -46,7 +46,10 @@ sections:
       
       - Gestão do tempo; 
       
-      - Síndrome do Burnout;"
+      - Síndrome do Burnout;
+      
+      
+    Dê uma olhada [no meu Lattes](https://lattes.cnpq.br/5417912382990583)!"
       
     design:
       columns: '2'
@@ -110,7 +113,7 @@ sections:
       - certificate_url: 
         date_end: "2023-05-04"
         date_start: "2023-04-02"
-        description: "Análises com dados não-estruturados para extrair padrões em textos usando métodos quantitativos."
+        description: "Análises com dados não-estruturados para extrair padrões em textos utilizando métodos quantitativos."
         organization: Psicometria Online 
         organization_url: https://psicometriaonline.com.br/
         title: IRAMUTEQ - Análises Textuais 
@@ -123,6 +126,15 @@ sections:
         organization: Psicometria Online 
         organization_url: https://psicometriaonline.com.br/
         title: Construção, Adaptação e Validação de Instrumentos de Autorrelato 
+        url: ""          
+        
+      - certificate_url: 
+        date_end: "2023-06-02"
+        date_start: "2023-06-15"
+        description: "Aborda métodos avançados de Regressão Linear."
+        organization: Psicometria Online 
+        organization_url: https://psicometriaonline.com.br/
+        title: Mediação e Moderação 
         url: ""          
       subtitle: null
       title: Certificações 
@@ -204,22 +216,22 @@ sections:
 #      columns: '2'
 #      view: card
       
-  - block: collection
-    content:
-      title: Publicações 
+#  - block: collection
+#    content:
+#      title: Publicações 
       
 #      text: |-
 #        {{% callout note %}}
 #        Quickly discover relevant content by [filtering publications](./publication/).
 #        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-
+#      filters:
+#        folders:
+#          - publication
+#        exclude_featured: true
+#    design:
+#      columns: '2'
+#      view: citation
+#
 #  - block: collection
 #    id: talks
 #    content:
